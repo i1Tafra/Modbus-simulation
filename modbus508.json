@@ -1,0 +1,90 @@
+{
+  "serverData": {
+    "ip": "192.168.0.15",
+    "port": 508,
+    "unitId": 12
+  },
+  "registers": [
+    {
+      "adress": 2,
+      "min": 0,
+      "max": 128,
+      "values": [
+        0,
+        1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+        64,
+        128
+      ]
+    },
+    {
+      "adress": 3,
+      "min": 0,
+      "max": 0,
+      "values": [
+        2048,
+        1024,
+        521,
+        64
+      ]
+    },
+    {
+      "adress": 5,
+      "min": -512,
+      "max": 512,
+      "values": []
+    },
+    {
+      "adress": 6,
+      "min": 0,
+      "max": 4092,
+      "values": []
+    },
+	{
+      "adress": 7,
+      "min": 10,
+      "max": 210,
+      "values": []
+    },
+    {
+      "adress": 9,
+      "min": -10,
+      "max": 3,
+      "values": []
+    },
+	{
+      "adress": 12,
+      "min": -1000,
+      "max": 1000,
+      "values": []
+    },
+	    {
+      "adress": 14,
+      "min": -14,
+      "max": 14,
+      "values": []
+    },
+	{
+      "adress": 15,
+      "min": 0,
+      "max": 15,
+      "values": []
+    },
+	{
+      "adress": 22,
+      "min": -3,
+      "max": 3,
+      "values": []
+    }
+  ]
+}
